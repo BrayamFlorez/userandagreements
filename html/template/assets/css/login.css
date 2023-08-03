@@ -1,0 +1,8 @@
+.cuerpo{
+    background: rgb(45,141,255);
+background: radial-gradient(circle, rgba(45,141,255,1) 23%, rgba(173,242,255,1) 83%);
+}
+
+.caja{
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
